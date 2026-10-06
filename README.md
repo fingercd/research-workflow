@@ -2,7 +2,7 @@
 
 一个用于深度学习与计算实验研究的通用 Agent Skill，通过诊断、正式验证、顾问复审和方向调整，推进可追溯的实验迭代。
 
-A reusable agent skill for evidence-driven research: diagnose cheaply, validate deliberately, preserve useful results, and change direction when evidence warrants it.
+**If you have enough Token Please use it**
 
 ## 工作方式
 
