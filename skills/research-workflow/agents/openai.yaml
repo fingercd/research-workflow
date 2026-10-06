@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研实验迭代工作流"
+  short_description: "通过少量诊断、正式验证、顾问复审与有证据的转向，推进可追溯科研迭代"
+  default_prompt: "使用 $research-workflow，结合当前研究目标、已有实验、预算和授权，推进下一轮迭代并明确去留依据。"
